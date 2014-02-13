@@ -8,6 +8,7 @@
 
 #import "PocketAPILogin.h"
 #import "PocketAPIOperation.h"
+#import <UIKit/UIKit.h>
 
 const NSString *PocketAPIErrorDomain = @"PocketAPIErrorDomain";
 
